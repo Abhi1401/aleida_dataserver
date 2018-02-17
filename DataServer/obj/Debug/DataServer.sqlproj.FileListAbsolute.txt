@@ -1,0 +1,5 @@
+C:\Users\Abhishek\source\repos\DataServer\DataServer\bin\Debug\DataServer.dacpac
+C:\Users\Abhishek\source\repos\DataServer\DataServer\bin\Debug\DataServer.dll
+C:\Users\Abhishek\source\repos\DataServer\DataServer\bin\Debug\DataServer.pdb
+C:\Users\Abhishek\source\repos\DataServer\DataServer\obj\Debug\DataServer.dll
+C:\Users\Abhishek\source\repos\DataServer\DataServer\obj\Debug\DataServer.pdb
